@@ -7,3 +7,13 @@ _____
 summary(cars)
 ```
 Just adding this sentence as a reminder for later! Basic R summary above.
+## plot below 
+
+``` {r}
+library(ggplot2)
+ggplot(cars, aes(x= speed, y = dist)) + 
+
+geom_point() + 
+labs(title = "Speed vs Stopping Distance", x = "Speed", y = "Distance")
+
+```
