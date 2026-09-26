@@ -6,3 +6,4 @@ _____
 ``` {r}
 summary(cars)
 ```
+Just adding this sentence as a reminder for later! Basic R summary above.
