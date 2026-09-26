@@ -1,0 +1,8 @@
+_____
+title: "Hello"
+format: html
+_____
+
+``` {r}
+summary(cars)
+```
