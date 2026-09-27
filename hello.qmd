@@ -1,7 +1,8 @@
-_____
-title: "Hello, conflicts"
+
+---
+title: "Hello, conflicts and git!!!"
 format: html
-_____
+---
 
 ``` {r}
 summary(cars)
