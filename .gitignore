@@ -1,3 +1,6 @@
-*html
+*.html
 .secrets
 hello_files/
+!docs/*.html
+/.quarto/
+**/*.quarto_ipynb
